@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main (){
-    int x,sum=0;
+    float x,sum=0;
     
     while (x != 0)
     {
